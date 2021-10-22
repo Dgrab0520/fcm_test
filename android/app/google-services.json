@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13265371986",
+    "project_id": "project-3b6c9",
+    "storage_bucket": "project-3b6c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13265371986:android:37534de587c9046d92b08b",
+        "android_client_info": {
+          "package_name": "com.flunyt.fcm_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13265371986-1ejmmbrk1roen57n2pkvkvpsurs8534e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZHbKJ78SRknZnyvW7AYEaIm2parloEQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13265371986-1ejmmbrk1roen57n2pkvkvpsurs8534e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
